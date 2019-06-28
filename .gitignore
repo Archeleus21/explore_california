@@ -1,0 +1,13 @@
+# Comment 
+tempfile.txt
+#mac file
+.DS_Store
+#compressing files
+*.zip
+*.gz
+#directory
+log/*.log
+log/*log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
